@@ -1,0 +1,9 @@
+h1, h3 {
+    color: lightskyblue;
+    background-color: black;
+}
+
+div {
+    width: 50%;
+    margin-bottom: 30px;
+}

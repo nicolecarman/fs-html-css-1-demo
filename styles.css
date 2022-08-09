@@ -1,0 +1,15 @@
+/* We will write the styles for part 2 in this file. */
+body {
+    margin: 0px;
+}
+
+header {
+    width: 100%;
+    background-color: lightseagreen;
+}
+
+form {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
